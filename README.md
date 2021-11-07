@@ -5,7 +5,14 @@
 
 Development:
 
-Java, NodeJS, ReactJS, Ruby, Go, Python, Elixir, Web, C#
+NodeJS/ReactJS
+Java/Kotlin
+TypeScript
+Python
+Elixir
+Ruby
+Rust
+C#
 
 Software Security/Software Vulnerabilities
 
