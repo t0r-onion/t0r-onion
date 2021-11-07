@@ -3,19 +3,17 @@
 
 
 
-##Development:
+Development:
 
-##Java, NodeJS, ReactJS, Ruby, Go, Python, Elixir, Web, C#
+Java, NodeJS, ReactJS, Ruby, Go, Python, Elixir, Web, C#
 
-##Software Security/Software Vulnerabilities
-
+Software Security/Software Vulnerabilities
 
 
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tenieTheFlower.tenieTheFlower)
 
-<details>
 
 <br >
 
