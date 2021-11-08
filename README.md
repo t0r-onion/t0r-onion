@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm tenie
 #### Thanks for visiting my profile lol.
-![Thanks for visiting my profile lol.](https://raw.githubusercontent.com/tenieTheFlower/tenieTheFlower/main/teniealtprofilebanner.gif)
+![Thanks for visiting my profile lol.](https://raw.githubusercontent.com/tenieTheFlower/tenieTheFlower/main/updatedgif.gif)
 
 i like programming and i'm currently kind of proficient and trying to improve in following languages.
 
