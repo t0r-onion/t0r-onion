@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm room
 #### Thanks for visiting my profile lol.
-![Thanks for visiting my profile lol.](https://raw.githubusercontent.com/tenieTheFlower/tenieTheFlower/main/updatedgif.gif)
+![Thanks for visiting my profile lol.](https://raw.githubusercontent.com/tenieTheFlower/tenieTheFlower/main/room.gif)
 
 i like programming and i'm currently kind of proficient and trying to improve in following languages.
 
