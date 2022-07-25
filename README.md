@@ -1,4 +1,4 @@
-### Hi there 👋, I'm aris
+### Hi there 👋, I'm nat
 #### Thanks for visiting my profile lol.
 ![Thanks for visiting my profile lol.](https://raw.githubusercontent.com/tenieTheFlower/tenieTheFlower/main/room.gif)
 
