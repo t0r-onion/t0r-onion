@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm nat
 #### Thanks for visiting my profile lol.
-![Thanks for visiting my profile lol.](https://raw.githubusercontent.com/tenieTheFlower/tenieTheFlower/main/room.gif)
 
 i like programming and i'm currently kind of proficient and trying to improve in following languages.
 
@@ -22,16 +21,8 @@ Interests: Reverse Engineering/Software Vulnerabilities/Software Protection/Data
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tenieTheFlower)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenieTheFlower)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tenieTheFlower&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tenieTheFlower)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenieTheFlower)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![GitHub metrics](https://metrics.lecoq.io/tenieTheFlower)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tenieTheFlower)  
 
 ![Profile views](https://gpvc.arturio.dev/tenieTheFlower)  
