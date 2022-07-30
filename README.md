@@ -4,9 +4,9 @@
 
 i like programming and i'm currently kind of proficient and trying to improve in following languages.
 
-Languages: Java/Kotlin/Go/C++
+Languages: Java/C++
 
-Scripting Languages: JavasScript/TypeScript/Lua
+Scripting Languages: Lua
 
 Interests: Reverse Engineering/Software Vulnerabilities/Software Protection/Databases/Cyber Security
 
