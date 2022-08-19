@@ -3,7 +3,7 @@
 
 i like programming and i'm currently kind of proficient and trying to improve in following languages.
 
-Languages: Java/C++
+Languages: Java/C/C++
 
 Scripting Languages: Lua
 
