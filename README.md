@@ -1,5 +1,3 @@
-<a href="https://dreamys.studio/"><img src="website.gif" alt="Gif loading..."></a>
-
 <img width="50%" height="25px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=NatUSB&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
