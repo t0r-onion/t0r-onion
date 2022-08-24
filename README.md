@@ -23,7 +23,7 @@
 
 ## Code Editors
 ![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Visual_Sudio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Reverse Engineering Tools
 ![](https://img.shields.io/badge/IDA_Pro-A100FF?style=for-the-badge&logo=accenture&logoColor=white)
