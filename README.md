@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/IntelliJ_IDEA_Ultimate-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
 
 ## Code Editors
 ![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
@@ -29,6 +30,8 @@
 ## Reverse Engineering Tools
 ![](https://img.shields.io/badge/IDA_Pro-A100FF?style=for-the-badge&logo=accenture&logoColor=white)
 ![](https://img.shields.io/badge/dnSpy-047AED?style=for-the-badge&logo=accenture&logoColor=white)
+![](https://img.shields.io/badge/dotPeek-000000?style=for-the-badge&logo=rider&logoColor=white)
+
 
 ## Reverse Engineering Tools Java
 ![](https://img.shields.io/badge/JByte_MOD_Remastered-551DEF?style=for-the-badge&logo=accenture&logoColor=white)
