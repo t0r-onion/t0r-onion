@@ -27,6 +27,8 @@
 
 ## Reverse Engineering Tools
 ![](https://img.shields.io/badge/IDA_Pro-A100FF?style=for-the-badge&logo=accenture&logoColor=white)
+![](https://img.shields.io/badge/x64dbg-002B5C?style=for-the-badge&logo=accenture&logoColor=white)
+
 ![](https://img.shields.io/badge/dnSpy-047AED?style=for-the-badge&logo=accenture&logoColor=white)
 ![](https://img.shields.io/badge/dotPeek-000000?style=for-the-badge&logo=rider&logoColor=white)
 
