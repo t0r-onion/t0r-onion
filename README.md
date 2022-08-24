@@ -5,7 +5,7 @@
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NatUSB&theme=midnight-purple&hide_border=true">
 
-## Languages
+## Programming Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black)
 
@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## IDEs
+## Integrated Development Environments (IDEs)
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ_IDEA_Ultimate-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
