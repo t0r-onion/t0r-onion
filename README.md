@@ -1,9 +1,9 @@
 <img width="50%" height="25px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=NatUSB&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=notex1337&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatUSB&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=notex1337&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NatUSB&theme=midnight-purple&hide_border=true">
+<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=notex1337&theme=midnight-purple&hide_border=true">
 
 ## Programming Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
