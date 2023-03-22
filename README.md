@@ -5,11 +5,11 @@
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hoemanager&theme=midnight-purple&hide_border=true">
 
-##Projects
-ravenge - an undetected multipurpose apex legends cheat\
-shades - a screenshare tool made to detect any cheat injectable or not provides most of it's uses for minecraft\
-qRest - secure end to end authentication\
-Tallus - a fully undetected minecraft internal cheat with a lot of features
+## Projects
+![]ravenge - an undetected multipurpose apex legends cheat\
+![]shades - a screenshare tool made to detect any cheat injectable or not provides most of it's uses for minecraft\
+![]qRest - secure end to end authentication\
+![]Tallus - a fully undetected minecraft internal cheat with a lot of features
 
 ## Programming Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
