@@ -7,8 +7,11 @@
 
 ## Projects
 ravenge - an undetected multipurpose apex legends cheat\
+\
 shades - a screenshare tool made to detect any cheat injectable or not provides most of it's uses for minecraft\
+\
 qRest - secure end to end authentication\
+\
 Tallus - a fully undetected minecraft internal cheat with a lot of features
 
 ## Programming Languages
