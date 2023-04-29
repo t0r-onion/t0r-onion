@@ -18,6 +18,7 @@ Tallus - a fully undetected minecraft internal cheat with a lot of features
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black)
+![](https://img.shields.io/badge/Rust-00599C?style=for-the-badge&logo=c&logoColor=black)
 
 ## Operating Systems
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
