@@ -16,7 +16,7 @@ Tallus - a fully undetected minecraft internal cheat with a lot of features.\
 \
 Stargaze - a very good and versatile GTA mod menu.\
 \
-Emerald - a versatile Rainbow Six Siege Cheat made for both legit and blatant.\
+Emerald - a versatile Rainbow Six Siege Cheat made for both legit and blatant.
 
 ## Programming Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
