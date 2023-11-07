@@ -14,7 +14,7 @@ qRest - secure end to end authentication.\
 \
 Tallus - a fully undetected minecraft internal cheat with a lot of features.\
 \
-Stargaze - a very good and versatile GTA mod menu which can be found @ ![stargaze.cloud](https://stargaze.cloud/).\
+Stargaze - a very good and versatile GTA mod menu which can be found @ [stargaze.cloud](https://stargaze.cloud/).\
 \
 Emerald - a versatile Rainbow Six Siege Cheat made for both legit and blatant.
 
